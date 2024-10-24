@@ -1,0 +1,14 @@
+p{
+    color: green;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    
+}
+.card{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-inline: 10px;
+    left: 90px;
+}
